@@ -1,7 +1,23 @@
-Java Backend Developer with 3 years of experience.
+# Hi 👋 I'm Bhupendra Sahu
 
-Skilled in Java, Spring Boot, REST APIs, SQL, and Microservices.
+### Java Backend Developer
 
-Currently focused on strengthening DSA, System Design, and Backend Architecture.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
-Passionate about building scalable backend applications and solving complex problems.
+## About Me
+
+- 💼 3 Years Backend Development Experience
+- ☕ Java & Spring Boot Enthusiast
+- 📚 Currently mastering DSA and System Design
+- 🚀 Building strong backend engineering skills
+
+## Current Focus
+
+✅ LeetCode DSA  
+✅ Java Core  
+✅ Spring Boot  
+✅ Microservices  
+✅ System Design
